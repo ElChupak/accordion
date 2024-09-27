@@ -3,7 +3,8 @@
 }
 .faq__wrapper {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 .faq__column {
     padding: 70px 45px 0 45px;
